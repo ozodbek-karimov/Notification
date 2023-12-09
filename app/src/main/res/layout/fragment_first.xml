@@ -15,10 +15,10 @@
         android:text="@string/get_notificat_ion" />
 
     <Button
-        android:id="@+id/dialog_button"
+        android:id="@+id/channel_notification_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
-        android:text="Dialog" />
+        android:text="Cahnnel" />
 
 </LinearLayout>
